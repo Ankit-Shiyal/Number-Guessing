@@ -11,7 +11,7 @@ let gameOver = false;
 function generateNumber() {
 
     targetNumber =
-        Math.floor(Math.random() * 3) + 1;
+        Math.floor(Math.random() * 100) + 1;
 
 }
 
